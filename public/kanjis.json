@@ -1,0 +1,180 @@
+{
+    "kanjis": [
+        {
+            "key": "1",
+            "kanji": "一",
+            "onyomi": "イチ、イツ",
+            "kunyomi": "ひと・つ",
+            "translation": "Uno"
+        },
+        {
+            "key": "2",
+            "kanji": "二",
+            "onyomi": "ニ",
+            "kunyomi": "ふた・つ",
+            "translation": "Dos"
+        },
+        {
+            "key": "3",
+            "kanji": "三",
+            "onyomi": "サン",
+            "kunyomi": "みっ・つ",
+            "translation": "Tres"
+        },
+        {
+            "key": "4",
+            "kanji": "四",
+            "onyomi": "シ",
+            "kunyomi": "よっ・つ、よん",
+            "translation": "Cuatro"
+        },
+        {   
+            "key": "5",
+            "kanji": "五",
+            "onyomi": "ゴ",
+            "kunyomi": "いつ・つ",
+            "translation": "Cinco"
+        },
+        {
+            "key": "6",
+            "kanji": "六",
+            "onyomi": "ロク",
+            "kunyomi": "むっ・つ",
+            "translation": "Seis"
+        },
+        {
+            "key": "7",
+            "kanji": "七",
+            "onyomi": "シチ",
+            "kunyomi": "なな・つ、なな",
+            "translation": "Siete"
+        },
+        {
+            "key": "8",
+            "kanji": "八",
+            "onyomi": "ハチ",
+            "kunyomi": "やっ・つ",
+            "translation": "Ocho"
+        },
+        {
+            "key": "9",
+            "kanji": "九",
+            "onyomi": "キュウ、ク",
+            "kunyomi": "ここの・つ",
+            "translation": "Nueve"
+        },
+        {
+            "key": "10",
+            "kanji": "十",
+            "onyomi": "ジュウ",
+            "kunyomi": "とお",
+            "translation": "Diez"
+        },
+        {
+            "key": "11",
+            "kanji": "百",
+            "onyomi": "ヒャク",
+            "translation": "Cien"
+        },
+        {
+            "key": "12",
+            "kanji": "千",
+            "onyomi": "セン",
+            "translation": "Mil"
+        },
+        {   
+            "key": "13",
+            "kanji": "万",
+            "onyomi": "マン",
+            "translation": "Diez mil"
+        },
+        {
+            "key": "14",
+            "kanji": "億",
+            "onyomi": "オク",
+            "translation": "Cien millones"
+        },
+        {
+            "key": "15",
+            "kanji": "日",
+            "onyomi": "ニチ、ジツ",
+            "kunyomi": "ひ、か",
+            "translation": "Sol, día"
+        },
+        {
+            "key": "16",
+            "kanji": "月",
+            "onyomi": "ガツ、ゲツ",
+            "kunyomi": "つき",
+            "translation": "Luna, mes"
+        },
+        {
+            "key": "17",
+            "kanji": "火",
+            "onyomi": "カ",
+            "kunyomi": "ひ",
+            "translation": "Fuego"
+        },
+        {
+            "key": "18",
+            "kanji": "水",
+            "onyomi": "スイ",
+            "kunyomi": "みず",
+            "translation": "Agua"
+        },
+        {
+            "key": "19",
+            "kanji": "木",
+            "onyomi": "ボク、モク",
+            "kunyomi": "き",
+            "translation": "Árbol, madera"
+        },
+        {
+            "key": "20",
+            "kanji": "金",
+            "onyomi": "キン",
+            "kunyomi": "かね",
+            "translation": "Oro, Dinero"
+        },
+        {
+            "key": "21",
+            "kanji": "土",
+            "onyomi": "ド、ト",
+            "kunyomi": "つち",
+            "translation": "Tierra"
+        },
+        {
+            "key": "22",
+            "kanji": "曜",
+            "onyomi": "ヨウ",
+            "translation": "Día de la semana"
+        },
+        {
+            "key": "23",
+            "kanji": "週",
+            "onyomi": "シュウ",
+            "translation": "Semana"
+        },
+        {
+            "key": "24",
+            "kanji": "年",
+            "onyomi": "ネン",
+            "kunyomi": "とし",
+            "translation": "Año"
+        },
+        {
+            "key": "25",
+            "kanji": "田",
+            "onyomi": "デン",
+            "kunyomi": "た",
+            "translation": "Campo de arroz"
+        },
+        {
+            "key": "26",
+            "kanji": "山",
+            "onyomi": "サン",
+            "kunyomi": "やま",
+            "translation": "Montaña"
+        }
+    ]
+}

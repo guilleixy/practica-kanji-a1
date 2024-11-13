@@ -1,0 +1,847 @@
+{
+    "kanjis": [
+        {
+            "key": "1",
+            "kanji": "一",
+            "onyomi": "イチ、イツ",
+            "kunyomi": "ひと・つ",
+            "translation": "Uno"
+        },
+        {
+            "key": "2",
+            "kanji": "二",
+            "onyomi": "ニ",
+            "kunyomi": "ふた・つ",
+            "translation": "Dos"
+        },
+        {
+            "key": "3",
+            "kanji": "三",
+            "onyomi": "サン",
+            "kunyomi": "みっ・つ",
+            "translation": "Tres"
+        },
+        {
+            "key": "4",
+            "kanji": "四",
+            "onyomi": "シ",
+            "kunyomi": "よっ・つ、よん",
+            "translation": "Cuatro"
+        },
+        {   
+            "key": "5",
+            "kanji": "五",
+            "onyomi": "ゴ",
+            "kunyomi": "いつ・つ",
+            "translation": "Cinco"
+        },
+        {
+            "key": "6",
+            "kanji": "六",
+            "onyomi": "ロク",
+            "kunyomi": "むっ・つ",
+            "translation": "Seis"
+        },
+        {
+            "key": "7",
+            "kanji": "七",
+            "onyomi": "シチ",
+            "kunyomi": "なな・つ、なな",
+            "translation": "Siete"
+        },
+        {
+            "key": "8",
+            "kanji": "八",
+            "onyomi": "ハチ",
+            "kunyomi": "やっ・つ",
+            "translation": "Ocho"
+        },
+        {
+            "key": "9",
+            "kanji": "九",
+            "onyomi": "キュウ、ク",
+            "kunyomi": "ここの・つ",
+            "translation": "Nueve"
+        },
+        {
+            "key": "10",
+            "kanji": "十",
+            "onyomi": "ジュウ",
+            "kunyomi": "とお",
+            "translation": "Diez"
+        },
+        {
+            "key": "11",
+            "kanji": "百",
+            "onyomi": "ヒャク",
+            "translation": "Cien"
+        },
+        {
+            "key": "12",
+            "kanji": "千",
+            "onyomi": "セン",
+            "translation": "Mil"
+        },
+        {   
+            "key": "13",
+            "kanji": "万",
+            "onyomi": "マン",
+            "translation": "Diez mil"
+        },
+        {
+            "key": "14",
+            "kanji": "億",
+            "onyomi": "オク",
+            "translation": "Cien millones"
+        },
+        {
+            "key": "15",
+            "kanji": "日",
+            "onyomi": "ニチ、ジツ",
+            "kunyomi": "ひ、か",
+            "translation": "Sol, día"
+        },
+        {
+            "key": "16",
+            "kanji": "月",
+            "onyomi": "ガツ、ゲツ",
+            "kunyomi": "つき",
+            "translation": "Luna, mes"
+        },
+        {
+            "key": "17",
+            "kanji": "火",
+            "onyomi": "カ",
+            "kunyomi": "ひ",
+            "translation": "Fuego"
+        },
+        {
+            "key": "18",
+            "kanji": "水",
+            "onyomi": "スイ",
+            "kunyomi": "みず",
+            "translation": "Agua"
+        },
+        {
+            "key": "19",
+            "kanji": "木",
+            "onyomi": "ボク、モク",
+            "kunyomi": "き",
+            "translation": "Árbol, madera"
+        },
+        {
+            "key": "20",
+            "kanji": "金",
+            "onyomi": "キン",
+            "kunyomi": "かね",
+            "translation": "Oro, Dinero"
+        },
+        {
+            "key": "21",
+            "kanji": "土",
+            "onyomi": "ド、ト",
+            "kunyomi": "つち",
+            "translation": "Tierra"
+        },
+        {
+            "key": "22",
+            "kanji": "曜",
+            "onyomi": "ヨウ",
+            "translation": "Día de la semana"
+        },
+        {
+            "key": "23",
+            "kanji": "週",
+            "onyomi": "シュウ",
+            "translation": "Semana"
+        },
+        {
+            "key": "24",
+            "kanji": "年",
+            "onyomi": "ネン",
+            "kunyomi": "とし",
+            "translation": "Año"
+        },
+        {
+            "key": "25",
+            "kanji": "田",
+            "onyomi": "デン",
+            "kunyomi": "た",
+            "translation": "Campo de arroz"
+        },
+        {
+            "key": "26",
+            "kanji": "山",
+            "onyomi": "サン",
+            "kunyomi": "やま",
+            "translation": "Montaña"
+        },
+        {
+            "key": "27",
+            "kanji": "川",
+            "onyomi": "セン",
+            "kunyomi": "かわ",
+            "translation": "Río"
+        },
+        {
+            "key": "28",
+            "kanji": "貝",
+            "onyomi": "かい",
+            "translation": "Concha"
+        },
+        {
+            "key": "29",
+            "kanji": "魚",
+            "onyomi": "ギョ",
+            "kunyomi": "さかな、うお",
+            "translation": "Pez"
+        },
+        {
+            "key": "30",
+            "kanji": "海",
+            "onyomi": "カイ",
+            "kunyomi": "うみ",
+            "translation": "Mar"
+        },
+        {
+            "key": "31",
+            "kanji": "花",
+            "onyomi": "カ",
+            "kunyomi": "はな",
+            "translation": "Flor"
+        },
+        {
+            "key": "32",
+            "kanji": "雨",
+            "onyomi": "ウ",
+            "kunyomi": "あめ、あま",
+            "translation": "Lluvia"
+        },
+        {
+            "key": "33",
+            "kanji": "空",
+            "onyomi": "クウ",
+            "kunyomi": "そら、から、あ・く",
+            "translation": "Cielo,Vacío Estar vacío"
+        },
+        {
+            "key": "34",
+            "kanji": "友",
+            "onyomi": "ユウ",
+            "kunyomi": "とも",
+            "translation": "Amigo"
+        },
+        {
+            "key": "35",
+            "kanji": "人",
+            "onyomi": "ジン、ニン",
+            "kunyomi": "ひと",
+            "translation": "Persona"
+        },
+        {
+            "key": "36",
+            "kanji": "手",
+            "onyomi": "シュ",
+            "kunyomi": "て",
+            "translation": "Mano"
+        },
+        {
+            "key": "37",
+            "kanji": "足",
+            "onyomi": "ソク",
+            "kunyomi": "あし、た・りる、た・す",
+            "translation": "Pie, Bastar, Añadir"
+        },
+        {
+            "key": "38",
+            "kanji": "目",
+            "onyomi": "モク",
+            "kunyomi": "め",
+            "translation": "Ojo"
+        },
+        {
+            "key": "39",
+            "kanji": "耳",
+            "onyomi": "ジ",
+            "kunyomi": "みみ",
+            "translation": "Oreja"
+        },
+        {
+            "key": "40",
+            "kanji": "口",
+            "onyomi": "コウ",
+            "kunyomi": "くち",
+            "translation": "Boca"
+        },
+        {
+            "key": "41",
+            "kanji": "子",
+            "onyomi": "シ",
+            "kunyomi": "こ",
+            "translation": "Chico/a"
+        },
+        {
+            "key": "42",
+            "kanji": "男",
+            "onyomi": "ダン、ナン",
+            "kunyomi": "おとこ",
+            "translation": "Hombre"
+        },
+        {
+            "key": "43",
+            "kanji": "女",
+            "onyomi": "ジョ",
+            "kunyomi": "おんな",
+            "translation": "Mujer"
+        },
+        {
+            "key": "44",
+            "kanji": "円",
+            "onyomi": "エン",
+            "kunyomi": "まる・い",
+            "translation": "Yen, Círculo"
+        },
+        {
+            "key": "45",
+            "kanji": "上",
+            "onyomi": "ジョウ",
+            "kunyomi": "うえ、あ・げる",
+            "translation": "Arriba, Subir/Dar"
+        },
+        {
+            "key": "46",
+            "kanji": "下",
+            "onyomi": "カ",
+            "kunyomi": "した、さ・げる、くだ・さい",
+            "translation": "Abajo, Bajar, Por favor"
+        },
+        {
+            "key": "47",
+            "kanji": "中",
+            "onyomi": "チュウ",
+            "kunyomi": "なか",
+            "translation": "Interior"
+        },
+        {
+            "key": "48",
+            "kanji": "外",
+            "onyomi": "ガイ",
+            "kunyomi": "そと",
+            "translation": "Exterior"
+        },
+        {
+            "key": "49",
+            "kanji": "右",
+            "onyomi": "ウ、ユウ",
+            "kunyomi": "みぎ",
+            "translation": "Derecha"
+        },
+        {
+            "key": "50",
+            "kanji": "左",
+            "onyomi": "サ",
+            "kunyomi": "ひだり",
+            "translation": "Izquierda"
+        },
+        {
+            "key": "51",
+            "kanji": "前",
+            "onyomi": "ゼン",
+            "kunyomi": "まえ",
+            "translation": "Delante, Antes"
+        },
+        {
+            "key": "52",
+            "kanji": "後",
+            "onyomi": "ゴ",
+            "kunyomi": "うし・ろ、あと",
+            "translation": "Detrás, Después"
+        },
+        {
+            "key": "53",
+            "kanji": "名",
+            "onyomi": "メイ、ミョウ",
+            "kunyomi": "な",
+            "translation": "Nombre"
+        },
+        {
+            "key": "54",
+            "kanji": "字",
+            "onyomi": "ジ",
+            "translation": "Letra"
+        },
+        {
+            "key": "55",
+            "kanji": "安",
+            "onyomi": "アン",
+            "kunyomi": "やす・い",
+            "translation": "Barato, Tranquilo"
+        },
+        {
+            "key": "56",
+            "kanji": "高",
+            "onyomi": "コウ",
+            "kunyomi": "たか・い",
+            "translation": "Caro, Alto"
+        },
+        {
+            "key": "57",
+            "kanji": "大",
+            "onyomi": "ダイ、タイ",
+            "kunyomi": "おお・きい",
+            "translation": "Grande"
+        },
+        {
+            "key": "58",
+            "kanji": "小",
+            "onyomi": "ショウ",
+            "kunyomi": "ちい・さい、こ",
+            "translation": "Pequeño"
+        },
+        {
+            "key": "59",
+            "kanji": "学",
+            "onyomi": "ガク",
+            "kunyomi": "まな・ぶ",
+            "translation": "Aprender, Escuela"
+        },
+        {
+            "key": "60",
+            "kanji": "校",
+            "onyomi": "コウ",
+            "translation": "Edificio de la escuela"
+        },
+        {
+            "key": "61",
+            "kanji": "見",
+            "onyomi": "ケン",
+            "kunyomi": "み・る、み・える、み・せる",
+            "translation": "Ver, Verse, Mostrar"
+        },
+        {
+            "key": "62",
+            "kanji": "言",
+            "onyomi": "ゲン",
+            "kunyomi": "い・う",
+            "translation": "Decir"
+        },
+        {
+            "key": "63",
+            "kanji": "行",
+            "onyomi": "コウ",
+            "kunyomi": "い・く、おこな・う",
+            "translation": "Ir, Efectuar"
+        },
+        {
+            "key": "64",
+            "kanji": "来",
+            "onyomi": "ライ",
+            "kunyomi": "く・る",
+            "translation": "Venir"
+        },
+        {
+            "key": "65",
+            "kanji": "天",
+            "onyomi": "テン",
+            "kunyomi": "あま、あめ",
+            "translation": "Celestial, Divino"
+        },
+        {
+            "key": "66",
+            "kanji": "父",
+            "onyomi": "フ",
+            "kunyomi": "ちち、とう・さん",
+            "translation": "Padre"
+        },
+        {
+            "key": "67",
+            "kanji": "母",
+            "onyomi": "ボ",
+            "kunyomi": "はは、かあ・さん",
+            "translation": "Madre"
+        },
+        {
+            "key": "68",
+            "kanji": "時",
+            "onyomi": "ジ",
+            "kunyomi": "とき",
+            "translation": "Hora"
+        },
+        {
+            "key": "69",
+            "kanji": "分",
+            "onyomi": "フン、ブン、プン",
+            "kunyomi": "わ・ける、わ・かる",
+            "translation": "Minuto, Dividir, Comprender"
+        },
+        {
+            "key": "70",
+            "kanji": "半",
+            "onyomi": "ハン",
+            "translation": "Mitad"
+        },
+        {
+            "key": "71",
+            "kanji": "北",
+            "onyomi": "ホク",
+            "kunyomi": "きた",
+            "translation": "Norte"
+        },
+        {
+            "key": "72",
+            "kanji": "南",
+            "onyomi": "ナン",
+            "kunyomi": "みなみ",
+            "translation": "Sur"
+        },
+        {
+            "key": "73",
+            "kanji": "東",
+            "onyomi": "トウ",
+            "kunyomi": "ひがし",
+            "translation": "Este"
+        },
+        {
+            "key": "74",
+            "kanji": "西",
+            "onyomi": "セイ",
+            "kunyomi": "にし",
+            "translation": "Oeste"
+        },
+        {
+            "key": "75",
+            "kanji": "電",
+            "onyomi": "デン",
+            "translation": "Electricidad"
+        },
+        {
+            "key": "76",
+            "kanji": "聞",
+            "onyomi": "ブン",
+            "kunyomi": "き・く",
+            "translation": "Escuchar, Preguntar"
+        },
+        {
+            "key": "77",
+            "kanji": "立",
+            "onyomi": "リツ",
+            "kunyomi": "た・つ",
+            "translation": "Estar de pie, Levantarse"
+        },
+        {
+            "key": "78",
+            "kanji": "話",
+            "onyomi": "ワ",
+            "kunyomi": "はな・す",
+            "translation": "Hablar"
+        },
+        {
+            "key": "79",
+            "kanji": "書",
+            "onyomi": "ショ",
+            "kunyomi": "か・く",
+            "translation": "Escribir"
+        },
+        {
+            "key": "80",
+            "kanji": "買",
+            "onyomi": "バイ",
+            "kunyomi": "か・う",
+            "translation": "Comprar"
+        },
+        {
+            "key": "81",
+            "kanji": "読",
+            "onyomi": "ドク",
+            "kunyomi": "よ・む",
+            "translation": "Leer"
+        },
+        {
+            "key": "82",
+            "kanji": "道",
+            "onyomi": "ドウ",
+            "kunyomi": "みち",
+            "translation": "Camino"
+        },
+        {
+            "key": "83",
+            "kanji": "入",
+            "onyomi": "ニュウ",
+            "kunyomi": "はい・る、い・れる",
+            "translation": "Entrar, Meter"
+        },
+        {
+            "key": "84",
+            "kanji": "出",
+            "onyomi": "シュツ",
+            "kunyomi": "で・る、だ・す",
+            "translation": "Salir, Sacar"
+        },
+        {
+            "key": "85",
+            "kanji": "古",
+            "onyomi": "コ",
+            "kunyomi": "ふる・い",
+            "translation": "Viejo"
+        },
+        {
+            "key": "86",
+            "kanji": "飲",
+            "onyomi": "イン",
+            "kunyomi": "の・む",
+            "translation": "Beber"
+        },
+        {
+            "key": "87",
+            "kanji": "食",
+            "onyomi": "ショク",
+            "kunyomi": "た・べる",
+            "translation": "Comer"
+        },
+        {
+            "key": "88",
+            "kanji": "駅",
+            "onyomi": "エキ",
+            "translation": "Estación"
+        },
+        {
+            "key": "89",
+            "kanji": "会",
+            "onyomi": "カイ",
+            "kunyomi": "あ・う",
+            "translation": "Reunión, Reunirse"
+        },
+        {
+            "key": "90",
+            "kanji": "気",
+            "onyomi": "キ",
+            "translation": "Espíritu"
+        },
+        {
+            "key": "91",
+            "kanji": "休",
+            "onyomi": "キュウ",
+            "kunyomi": "やす・む",
+            "translation": "Descanso, Descansar"
+        },
+        {
+            "key": "92",
+            "kanji": "社",
+            "onyomi": "シャ",
+            "translation": "Negocio"
+        },
+        {
+            "key": "93",
+            "kanji": "今",
+            "onyomi": "コン",
+            "kunyomi": "いま",
+            "translation": "Ahora"
+        },
+        {
+            "key": "94",
+            "kanji": "少",
+            "onyomi": "ショウ",
+            "kunyomi": "すこ・し、すく・ない",
+            "translation": "Un poco, Escaso"
+        },
+        {
+            "key": "95",
+            "kanji": "本",
+            "onyomi": "ホン",
+            "kunyomi": "もと",
+            "translation": "Libro, principal"
+        },
+        {
+            "key": "96",
+            "kanji": "先",
+            "onyomi": "セン",
+            "kunyomi": "さき",
+            "translation": "Anterior, punta"
+        },
+        {
+            "key": "97",
+            "kanji": "白",
+            "onyomi": "ハク",
+            "kunyomi": "しろ・い",
+            "translation": "Blanco"
+        },
+        {
+            "key": "98",
+            "kanji": "国",
+            "onyomi": "コク",
+            "kunyomi": "くに",
+            "translation": "País"
+        },
+        {
+            "key": "99",
+            "kanji": "早",
+            "onyomi": "ソウ",
+            "kunyomi": "はや・い",
+            "translation": "Rápido, temprano"
+        },
+        {
+            "key": "100",
+            "kanji": "午",
+            "onyomi": "ゴ",
+            "translation": "Mediodía"
+        },
+        {
+            "key": "101",
+            "kanji": "毎",
+            "onyomi": "マイ",
+            "translation": "Cada"
+        },
+        {
+            "key": "102",
+            "kanji": "王",
+            "onyomi": "オウ",
+            "translation": "Rey"
+        },
+        {
+            "key": "103",
+            "kanji": "玉",
+            "onyomi": "ギョク",
+            "kunyomi": "たま",
+            "translation": "Pelota, joya"
+        },
+        {
+            "key": "104",
+            "kanji": "生",
+            "onyomi": "セイ、ショウ",
+            "kunyomi": "い・きる、う・まれる、なま",
+            "translation": "Nacer, Vivir, Fresco"
+        },
+        {
+            "key": "105",
+            "kanji": "赤",
+            "onyomi": "セキ",
+            "kunyomi": "あか・い",
+            "translation": "Rojo"
+        },
+        {
+            "key": "106",
+            "kanji": "青",
+            "onyomi": "セイ",
+            "kunyomi": "あお・い",
+            "translation": "Azúl"
+        },
+        {
+            "key": "107",
+            "kanji": "語",
+            "onyomi": "ゴ",
+            "kunyomi": "かた・る",
+            "translation": "Narrar, Idioma"
+        },
+        {
+            "key": "108",
+            "kanji": "間",
+            "onyomi": "カン",
+            "kunyomi": "あいだ、ま",
+            "translation": "Intervalo de duración"
+        },
+        {
+            "key": "109",
+            "kanji": "新",
+            "onyomi": "シン",
+            "kunyomi": "あたら・しい",
+            "translation": "Nuevo"
+        },
+        {
+            "key": "110",
+            "kanji": "多",
+            "onyomi": "タ",
+            "kunyomi": "おお・い",
+            "translation": "Abundante"
+        },
+        {
+            "key": "111",
+            "kanji": "門",
+            "onyomi": "モン",
+            "translation": "Portón"
+        },
+        {
+            "key": "112",
+            "kanji": "長",
+            "onyomi": "チョウ",
+            "kunyomi": "なが・い",
+            "translation": "Largo"
+        },
+        {
+            "key": "113",
+            "kanji": "力",
+            "onyomi": "リョク",
+            "kunyomi": "ちから",
+            "translation": "Fuerza"
+        },
+        {
+            "key": "114",
+            "kanji": "朝",
+            "onyomi": "チョウ",
+            "kunyomi": "あさ",
+            "translation": "Mañana"
+        },
+        {
+            "key": "115",
+            "kanji": "歩",
+            "onyomi": "ホ",
+            "kunyomi": "ある・く",
+            "translation": "Caminar"
+        },
+        {
+            "key": "116",
+            "kanji": "車",
+            "onyomi": "シャ",
+            "kunyomi": "くるま",
+            "translation": "Coche"
+        },
+        {
+            "key": "117",
+            "kanji": "元",
+            "onyomi": "ゲン",
+            "kunyomi": "もと",
+            "translation": "Base, Bienestar"
+        },
+        {
+            "key": "118",
+            "kanji": "近",
+            "onyomi": "キン",
+            "kunyomi": "ちか・い",
+            "translation": "Cercano"
+        },
+        {
+            "key": "119",
+            "kanji": "遠",
+            "onyomi": "エン",
+            "kunyomi": "とお・い",
+            "translation": "Lejano"
+        },
+        {
+            "key": "120",
+            "kanji": "走",
+            "onyomi": "ソウ",
+            "kunyomi": "はし・る",
+            "translation": "Correr"
+        },
+        {
+            "key": "121",
+            "kanji": "知",
+            "onyomi": "チ",
+            "kunyomi": "し・る",
+            "translation": "Saber"
+        },
+        {
+            "key": "122",
+            "kanji": "虫",
+            "onyomi": "チュウ",
+            "kunyomi": "むし",
+            "translation": "Insecto"
+        },
+        {
+            "key": "123",
+            "kanji": "広",
+            "onyomi": "コウ",
+            "kunyomi": "ひろ・い",
+            "translation": "Amplio"
+        }
+    ]
+}
